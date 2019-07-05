@@ -9,7 +9,7 @@ docs : $(HDOCS)
 update : $(PHDOCS)
 	@echo -n 'Copying to server...'
 	git add *
-	git commit -m "website test"
+	git commit -m "website update on $(date)"
 	git push origin master
 	@echo ' done.'
 
