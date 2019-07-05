@@ -1,10 +1,9 @@
 DOCS=index publications teaching resume
 
 HDOCS=$(addsuffix .html, $(DOCS))
-PHDOCS=$(addprefix html/, $(HDOCS))
 
 .PHONY : docs
-docs : $(PHDOCS)
+docs : $(HDOCS)
 
 .PHONY : update
 update : $(PHDOCS)
@@ -12,9 +11,10 @@ update : $(PHDOCS)
 	# insert code for copying to server here.
 	@echo ' done.'
 
-html/%.html : %.jemdoc MENU
+%.html : %.jemdoc MENU
+	@echo -n 'Running jemdoc.'
 	python2.7 jemdoc.py -o $@ $<
 
 .PHONY : clean
 clean :
-	-rm -f html/*.html
+	-rm -f *.html
