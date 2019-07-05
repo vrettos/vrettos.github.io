@@ -8,7 +8,9 @@ docs : $(HDOCS)
 .PHONY : update
 update : $(PHDOCS)
 	@echo -n 'Copying to server...'
-	# insert code for copying to server here.
+	git add *
+	git commit -m "website test"
+	git push origin master
 	@echo ' done.'
 
 %.html : %.jemdoc MENU
