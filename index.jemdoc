@@ -21,5 +21,13 @@ where \n
 I was advised by [https://www.softlab.ntua.gr/~nickie/ Nikolaos Papaspyrou].
 
 == Research
-Broadly speaking my research interests lie in the areas of *probability*, *statistics*, *information theory*, *statistical learning theory*, *stochastic control* and *optimization*.
-In particularly, I have researched topics about *concentration inequalities for Markov chains*, and *multi-armed bandit problems*.
+My research interests lie in the following areas:
+-probability
+-statistics
+-information theory
+-statistical learning theory
+-stochastic control
+-optimization
+In particular, I have researched:
+-concentration inequalities for Markov chains
+-multi-armed bandit problems
