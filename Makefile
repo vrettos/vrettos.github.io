@@ -15,8 +15,7 @@ update : $(PHDOCS)
 
 %.html : %.jemdoc MENU
 	@echo -n 'Running jemdoc.'
-	python2.7 jemdoc.py -o $@ $<
-	python2.7 jemdoc.py -c mysite.conf -o index.html index.jemdoc
+	python2.7 jemdoc.py -c mysite.conf -o $@ $<
 
 .PHONY : clean
 clean :
