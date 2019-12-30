@@ -1,10 +1,10 @@
 # jemdoc: menu{MENU}{research.html}
 
 == Publications and Preprints
-- *Finite-time Analysis of Kullback-Leibler Upper Confidence Bounds For Optimal Adaptive Allocation with Multiple Plays---Part I: I.I.D. Rewards*\n
+- *A Hoeffding Inequality For Finite State Markov Chains and its Applications to Markovian Bandits*\n
 [https://vrettos.github.io/research.html Vrettos Moulos], \n
 (under review)
-- *Finite-time Analysis of Kullback-Leibler Upper Confidence Bounds For Optimal Adaptive Allocation with Multiple Plays---Part II: Markovian Rewards.*\n
+- *Finite-time Analysis of Kullback-Leibler Upper Confidence Bounds For Optimal Adaptive Allocation with Multiple Plays and Markovian Rewards.*\n
 [https://vrettos.github.io/research.html Vrettos Moulos], \n
 (under review) \n
 - *Optimal Chernoff and Hoeffding Bounds for Finite State Markov Chains.*\n
