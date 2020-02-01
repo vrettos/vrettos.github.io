@@ -1,4 +1,4 @@
-DOCS=index research teaching resume
+DOCS=index publications teaching resume
 
 HDOCS=$(addsuffix .html, $(DOCS))
 
