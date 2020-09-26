@@ -2,18 +2,18 @@
 
 == Publications and Preprints
 
+- *Finite-time Analysis of Round-Robin Kullback-Leibler Upper Confidence Bounds for Optimal Adaptive Allocation with Multiple Plays and Markovian Rewards.*\n
+[https://vrettos.github.io/research.html Vrettos Moulos], \n
+to appear in the 34th Conference on Neural Information Processing Systems *(NeurIPS)*, 2020 \n
+\[[https://arxiv.org/pdf/2001.11201.pdf arXiv]\]
 - *A Hoeffding Inequality For Finite State Markov Chains and its Applications to Markovian Bandits.*\n
 [https://vrettos.github.io/research.html Vrettos Moulos], \n
 in proceedings of the IEEE International Symposium on Information Theory *(ISIT)*, 2020 \n
 \[[https://arxiv.org/pdf/2001.01199v2.pdf arXiv]\]
 - *Optimal Best Markovian Arm Identification with Fixed Confidence.*\n
 [https://vrettos.github.io/research.html Vrettos Moulos], \n
-in proceedings of the 33rd Conference on Neural Information Processing Systems *(NeurIPS)*, 2019, \n
+in proceedings of the 33rd Conference on Neural Information Processing Systems *(NeurIPS)*, 2019 \n
 \[[https://arxiv.org/pdf/1912.00636.pdf arXiv]\]
-- *Finite-time Analysis of Round-Robin Kullback-Leibler Upper Confidence Bounds for Optimal Adaptive Allocation with Multiple Plays and Markovian Rewards.*\n
-[https://vrettos.github.io/research.html Vrettos Moulos], \n
-(under review) \n
-\[[https://arxiv.org/pdf/2001.11201.pdf arXiv]\]
 - *Optimal Chernoff and Hoeffding Bounds for Finite State Markov Chains.*\n
 [https://vrettos.github.io/research.html Vrettos Moulos] and [https://people.eecs.berkeley.edu/~ananth/ Venkat Anantharam], \n
 (under review) \n
