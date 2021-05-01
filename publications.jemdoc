@@ -2,9 +2,13 @@
 
 == Publications and Preprints
 
+- *Bicausal Optimal Transport for Markov Chains via Dynamic Programming.*\n
+[https://vrettos.github.io/publications.html Vrettos Moulos],\n
+to appeq in the IEEE International Symposium on Information Theory *(ISIT)*, 2021 \n
+\[[https://arxiv.org/pdf/2010.06831.pdf arXiv]\]
 - *Finite-time Analysis of Round-Robin Kullback-Leibler Upper Confidence Bounds for Optimal Adaptive Allocation with Multiple Plays and Markovian Rewards.*\n
 [https://vrettos.github.io/publications.html Vrettos Moulos], \n
-to appear in the 34th Conference on Neural Information Processing Systems *(NeurIPS)*, 2020 \n
+in proceedings of the 34th Conference on Neural Information Processing Systems *(NeurIPS)*, 2020 \n
 \[[https://arxiv.org/pdf/2001.11201.pdf arXiv]\]
 - *A Hoeffding Inequality For Finite State Markov Chains and its Applications to Markovian Bandits.*\n
 [https://vrettos.github.io/publications.html Vrettos Moulos], \n
@@ -17,6 +21,7 @@ in proceedings of the 33rd Conference on Neural Information Processing Systems *
 - *Optimal Chernoff and Hoeffding Bounds for Finite State Markov Chains.*\n
 [https://vrettos.github.io/publications.html Vrettos Moulos] and [https://people.eecs.berkeley.edu/~ananth/ Venkat Anantharam], \n
 \[[https://arxiv.org/pdf/1907.04467.pdf arXiv]\]
-- *Bicausal Optimal Transport for Markov Chains via Dynamic Programming.*\n
-[https://vrettos.github.io/publications.html Vrettos Moulos],\n
-\[[https://arxiv.org/pdf/2010.06831.pdf arXiv]\]
+- *Concentration and Sequential Decision Making in Markovian Environments.*\n
+[https://vrettos.github.io/publications.html Vrettos Moulos], \n
+PhD dissertation, UC Berkeley, 2020 \n
+[https://www2.eecs.berkeley.edu/Pubs/TechRpts/2020/EECS-2020-202.pdf disseration]
